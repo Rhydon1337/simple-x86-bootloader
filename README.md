@@ -1,5 +1,5 @@
 # simple-x86-bootloader
-Simple x86 legacy boot bootloader
+Simple legacy boot x86 bootloader
 
 MBR -> real mode to protected mode transition -> print some file data to serial port
 
